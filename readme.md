@@ -2,7 +2,7 @@
 
 **Status**: In develop
 
-## Feauture
+## Features
 
 * BlockChain structure in redis storage
 * UTXO model
@@ -14,7 +14,7 @@
 
 * Peers and nodes communication
 * WebSockets API provider
-* Extend api and blockchain feature
+* Extend api and blockchain features
 * BlockChain explorer and wallet gui
 * Errors handler
 * Documentation
